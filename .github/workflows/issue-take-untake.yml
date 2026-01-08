@@ -76,7 +76,9 @@ jobs:
             > [!CAUTION]
             > This issue has been claimed by **@${user}**.
             >
-            > Comment \`/untake\` to release the claim.
+            > So, it is advisable to not work on it while it is claimed.
+            >
+            > **For @${user}:** Comment \`/untake\` to unclaim.
             ${BODY_END}
             `.trim();
             }
